@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Buy on Granada On</title>
+    <link>http://localhost:1313/tags/buy/</link>
+    <description>Recent content in Buy on Granada On</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 07 Feb 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/buy/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Buy the book</title>
+      <link>http://localhost:1313/post/book/</link>
+      <pubDate>Sun, 07 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/book/</guid>
+      <description>
+
+&lt;h2 id=&#34;buy-the-book:a4120eb5e3b840f4cb50bfde0ab741ee&#34;&gt;Buy the book&lt;/h2&gt;
+
+&lt;p&gt;The book is for sale in all Amazon shops with a size that can be easily carried
+in your back pocket. And it&amp;rsquo;s cheaper than a dish of paella in one of
+the tourist traps in the city center, so it will save you money.&lt;/p&gt;
+
+&lt;iframe style=&#34;width:120px;height:240px;&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; src=&#34;//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=US&amp;source=ss&amp;ref=ss_til&amp;ad_type=product_link&amp;tracking_id=perltutobyjjmere&amp;marketplace=amazon&amp;region=US&amp;placement=1523257083&amp;asins=1523257083&amp;linkId=6CDLQVTJZQ4W5JSW&amp;show_border=true&amp;link_opens_in_new_window=true&#34;&gt;
+&lt;/iframe&gt;
+
+&lt;p&gt;Closer to home, in the UK&lt;/p&gt;
+
+&lt;iframe style=&#34;width:120px;height:240px;&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; src=&#34;//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=GB&amp;source=ss&amp;ref=ss_til&amp;ad_type=product_link&amp;tracking_id=severawebsite-21&amp;marketplace=amazon&amp;region=GB&amp;placement=1523257083&amp;asins=1523257083&amp;linkId=&amp;show_border=true&amp;link_opens_in_new_window=true&#34;&gt;
+&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Buy the eBook</title>
+      <link>http://localhost:1313/post/ebook/</link>
+      <pubDate>Sun, 07 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/ebook/</guid>
+      <description>
+
+&lt;h2 id=&#34;buy-the-book:f3605397d604c8125f5e890b05e20f87&#34;&gt;Buy the book&lt;/h2&gt;
+
+&lt;p&gt;Buy the ebook for your mobile phone or simply to save money and help
+the planet. It&amp;rsquo;s DRM-free and also has a free license, so feel free
+and happy to share.&lt;/p&gt;
+
+&lt;iframe style=&#34;width:120px;height:240px;&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; src=&#34;//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=US&amp;source=ss&amp;ref=ss_til&amp;ad_type=product_link&amp;tracking_id=perltutobyjjmere&amp;marketplace=amazon&amp;region=US&amp;placement=B01AF7WIHU&amp;asins=B01AF7WIHU&amp;linkId=2FHR33NKVP6L6FKR&amp;show_border=true&amp;link_opens_in_new_window=true&#34;&gt;
+&lt;/iframe&gt;
+
+&lt;p&gt;Closer to home, in the UK&lt;/p&gt;
+
+&lt;iframe style=&#34;width:120px;height:240px;&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; src=&#34;//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=GB&amp;source=ss&amp;ref=ss_til&amp;ad_type=product_link&amp;tracking_id=severawebsite-21&amp;marketplace=amazon&amp;region=GB&amp;placement=B01AF7WIHU&amp;asins=B01AF7WIHU&amp;linkId=&amp;show_border=true&amp;link_opens_in_new_window=true&#34;&gt;
+&lt;/iframe&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Meta on Granada On</title>
+    <link>http://localhost:1313/tags/meta/</link>
+    <description>Recent content in Meta on Granada On</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 08 Feb 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/meta/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Granada On, the book</title>
+      <link>http://localhost:1313/post/default/</link>
+      <pubDate>Mon, 08 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/default/</guid>
+      <description>
+
+&lt;h2 id=&#34;granada-on-the-book:4d0b5a39e35f1b0e503eb49d98793d92&#34;&gt;Granada On, the book&lt;/h2&gt;
+
+&lt;p&gt;This book is about &lt;a href=&#34;https://en.wikipedia.org/wiki/Granada&#34;&gt;Granada&lt;/a&gt;, a
+living city that exists before, during and after the Alhambra, the
+paella and the shopping. It is about the graffiti, about the
+technology, about urban exploration and about stuff that is in plain
+sight and yet almost never seen.&lt;/p&gt;
+
+&lt;p&gt;It is about a city to be lived and walked and eaten and drunk. A city
+that has to be discovered over and over again.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
