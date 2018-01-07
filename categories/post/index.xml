@@ -2,80 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Post on Granada On</title>
-    <link>http://localhost:1313/categories/post/</link>
+    <link>https://granada-on.github.io/categories/post/</link>
     <description>Recent content in Post on Granada On</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 08 Feb 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/post/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://granada-on.github.io/categories/post/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Granada On, the book</title>
-      <link>http://localhost:1313/post/default/</link>
+      <link>https://granada-on.github.io/post/default/</link>
       <pubDate>Mon, 08 Feb 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/default/</guid>
-      <description>
-
-&lt;h2 id=&#34;granada-on-the-book:4d0b5a39e35f1b0e503eb49d98793d92&#34;&gt;Granada On, the book&lt;/h2&gt;
-
-&lt;p&gt;This book is about &lt;a href=&#34;https://en.wikipedia.org/wiki/Granada&#34;&gt;Granada&lt;/a&gt;, a
-living city that exists before, during and after the Alhambra, the
-paella and the shopping. It is about the graffiti, about the
-technology, about urban exploration and about stuff that is in plain
-sight and yet almost never seen.&lt;/p&gt;
-
-&lt;p&gt;It is about a city to be lived and walked and eaten and drunk. A city
-that has to be discovered over and over again.&lt;/p&gt;
-</description>
+      <guid>https://granada-on.github.io/post/default/</guid>
+      <description>Granada On, the book This book is about Granada, a living city that exists before, during and after the Alhambra, the paella and the shopping. It is about the graffiti, about the technology, about urban exploration and about stuff that is in plain sight and yet almost never seen.
+It is about a city to be lived and walked and eaten and drunk. A city that has to be discovered over and over again.</description>
     </item>
     
     <item>
       <title>Buy the book</title>
-      <link>http://localhost:1313/post/book/</link>
+      <link>https://granada-on.github.io/post/book/</link>
       <pubDate>Sun, 07 Feb 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/book/</guid>
-      <description>
-
-&lt;h2 id=&#34;buy-the-book:a4120eb5e3b840f4cb50bfde0ab741ee&#34;&gt;Buy the book&lt;/h2&gt;
-
-&lt;p&gt;The book is for sale in all Amazon shops with a size that can be easily carried
-in your back pocket. And it&amp;rsquo;s cheaper than a dish of paella in one of
-the tourist traps in the city center, so it will save you money.&lt;/p&gt;
-
-&lt;iframe style=&#34;width:120px;height:240px;&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; src=&#34;//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=US&amp;source=ss&amp;ref=ss_til&amp;ad_type=product_link&amp;tracking_id=perltutobyjjmere&amp;marketplace=amazon&amp;region=US&amp;placement=1523257083&amp;asins=1523257083&amp;linkId=6CDLQVTJZQ4W5JSW&amp;show_border=true&amp;link_opens_in_new_window=true&#34;&gt;
-&lt;/iframe&gt;
-
-&lt;p&gt;Closer to home, in the UK&lt;/p&gt;
-
-&lt;iframe style=&#34;width:120px;height:240px;&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; src=&#34;//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=GB&amp;source=ss&amp;ref=ss_til&amp;ad_type=product_link&amp;tracking_id=severawebsite-21&amp;marketplace=amazon&amp;region=GB&amp;placement=1523257083&amp;asins=1523257083&amp;linkId=&amp;show_border=true&amp;link_opens_in_new_window=true&#34;&gt;
-&lt;/iframe&gt;
-</description>
+      <guid>https://granada-on.github.io/post/book/</guid>
+      <description> Buy the book The book is for sale in all Amazon shops with a size that can be easily carried in your back pocket. And it&amp;rsquo;s cheaper than a dish of paella in one of the tourist traps in the city center, so it will save you money.
+ Closer to home, in the UK
+ </description>
     </item>
     
     <item>
       <title>Buy the eBook</title>
-      <link>http://localhost:1313/post/ebook/</link>
+      <link>https://granada-on.github.io/post/ebook/</link>
       <pubDate>Sun, 07 Feb 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/ebook/</guid>
-      <description>
-
-&lt;h2 id=&#34;buy-the-book:f3605397d604c8125f5e890b05e20f87&#34;&gt;Buy the book&lt;/h2&gt;
-
-&lt;p&gt;Buy the ebook for your mobile phone or simply to save money and help
-the planet. It&amp;rsquo;s DRM-free and also has a free license, so feel free
-and happy to share.&lt;/p&gt;
-
-&lt;iframe style=&#34;width:120px;height:240px;&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; src=&#34;//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=US&amp;source=ss&amp;ref=ss_til&amp;ad_type=product_link&amp;tracking_id=perltutobyjjmere&amp;marketplace=amazon&amp;region=US&amp;placement=B01AF7WIHU&amp;asins=B01AF7WIHU&amp;linkId=2FHR33NKVP6L6FKR&amp;show_border=true&amp;link_opens_in_new_window=true&#34;&gt;
-&lt;/iframe&gt;
-
-&lt;p&gt;Closer to home, in the UK&lt;/p&gt;
-
-&lt;iframe style=&#34;width:120px;height:240px;&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; src=&#34;//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=GB&amp;source=ss&amp;ref=ss_til&amp;ad_type=product_link&amp;tracking_id=severawebsite-21&amp;marketplace=amazon&amp;region=GB&amp;placement=B01AF7WIHU&amp;asins=B01AF7WIHU&amp;linkId=&amp;show_border=true&amp;link_opens_in_new_window=true&#34;&gt;
-&lt;/iframe&gt;
-</description>
+      <guid>https://granada-on.github.io/post/ebook/</guid>
+      <description> Buy the book Buy the ebook for your mobile phone or simply to save money and help the planet. It&amp;rsquo;s DRM-free and also has a free license, so feel free and happy to share.
+ Closer to home, in the UK
+ </description>
     </item>
     
   </channel>
